@@ -1,0 +1,16 @@
+{
+  "name": "public-key-cryptography",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "genKeyPairs": "node ./genKeyPairs.js",
+    "main": "node ./main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
